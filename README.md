@@ -3,6 +3,10 @@
 
 A simple template for creating consistent UTM tracking links for digital marketing campaigns.
 
+## Download the UTM Template
+
+[Download the UTM Tracking CSV Template](utm-links-template.csv)
+
 ## Parameters
 
 | Parameter | Example |
