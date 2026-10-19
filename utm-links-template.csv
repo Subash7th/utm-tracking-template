@@ -1,0 +1,7 @@
+Destination URL,UTM Source,UTM Medium,UTM Campaign,UTM Content,UTM Term,Final Tracking URL
+https://example.com/guide/,linkedin,social,analytics_guide_launch,feed_post,,https://example.com/guide/?utm_source=linkedin&utm_medium=social&utm_campaign=analytics_guide_launch&utm_content=feed_post
+https://example.com/guide/,newsletter,email,analytics_guide_launch,main_button,,https://example.com/guide/?utm_source=newsletter&utm_medium=email&utm_campaign=analytics_guide_launch&utm_content=main_button
+https://example.com/guide/,pinterest,social,analytics_guide_launch,pin_01,,https://example.com/guide/?utm_source=pinterest&utm_medium=social&utm_campaign=analytics_guide_launch&utm_content=pin_01
+https://example.com/guide/,devto,referral,analytics_guide_launch,article_footer,,https://example.com/guide/?utm_source=devto&utm_medium=referral&utm_campaign=analytics_guide_launch&utm_content=article_footer
+https://example.com/guide/,github,referral,analytics_guide_launch,readme_link,,https://example.com/guide/?utm_source=github&utm_medium=referral&utm_campaign=analytics_guide_launch&utm_content=readme_link
+,,,,,,
